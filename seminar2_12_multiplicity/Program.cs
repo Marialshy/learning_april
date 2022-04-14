@@ -12,4 +12,5 @@ else
 {
     Console.WriteLine("не кратно, остаток деления = " + number1%number2 + "");
 }
+Console.ReadLine();
 //Convert.ToInt32 - перевод в целое число;
