@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// выводит квадраты от 1 до числа n, полученного с клавиатуры
 Console.WriteLine("enter number");
 int n = Convert.ToInt32(Console.ReadLine());
 int count = 1;
